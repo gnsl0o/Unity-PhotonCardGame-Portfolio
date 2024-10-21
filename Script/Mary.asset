@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ebc265767a6e0e4383f402ff5e88c9d, type: 3}
+  m_Name: Mary
+  m_EditorClassIdentifier: 
+  characterName: Mary
+  characterImage: {fileID: 21300000, guid: 6b6734dfe05f4e44aa70bd42c9cf0195, type: 3}
+  emojiSprites:
+  - {fileID: 21300000, guid: eb2c5f82b1931b24ba70e9c34dcaadfd, type: 3}
+  - {fileID: 21300000, guid: acb0df41df057124ba01a090f2788a02, type: 3}
+  - {fileID: 21300000, guid: 3a4911225503b1a4687f05be2f88bb86, type: 3}
+  - {fileID: 21300000, guid: fae2314b1f0a82d46a4eae3c6a216a03, type: 3}
+  - {fileID: 21300000, guid: 0a7c5cf60b8018043b5e122923b6b1f7, type: 3}
+  - {fileID: 21300000, guid: ecc3f2215eb8c154783c7f29a27cc809, type: 3}
